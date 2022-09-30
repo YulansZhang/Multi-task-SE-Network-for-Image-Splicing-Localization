@@ -1,0 +1,4 @@
+python3.6 environment
+torch>=1.1.0 
+opencv-python>=4.5.1
+numpy>=1.15.4
